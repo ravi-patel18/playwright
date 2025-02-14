@@ -1,0 +1,13 @@
+TAP version 13
+# Subtest: Product Test
+ok 1 - Product Test
+  ---
+  duration_ms: 0.6027
+  type: 'suite'
+  ...
+Step 1: Navigate to the url
+Step 2: Enter the login details and clicks on the login button
+Step 3: User clicks on the Content Studio tab and selects the Product menu
+Step 4: User clicks on the Create Product button
+Step 5: User adds the product details and clicks on the Create button
+Step 6: Verify that the product is created successfully
